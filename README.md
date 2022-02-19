@@ -1,2 +1,2 @@
 ### Hi There, We Are DPW-Organization 👋
-![visitors](https://visitor-badge.glitch.me/badge?username=Pucuk1337)
+![](https://tokei.rs/b1/github/Pucuk1337/Kelompok-DPW?category=type
