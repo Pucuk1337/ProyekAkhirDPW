@@ -1,2 +1,1 @@
-### Hi There, We Are DPW-Organization 👋
-![visitors](https://visitor-badge.glitch.me/badge?username=Pucuk1337)
+<i>A curated list of awesome Github Profile READMEs</i>
