@@ -100,3 +100,9 @@ a:hover {
   background-color: #198754;
   border-color: #375854;
 }
+
+.garis-bawah{
+    border-bottom: 2px solid #2d2d2d;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
