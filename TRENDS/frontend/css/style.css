@@ -101,6 +101,13 @@ a:hover {
   border-color: #375854;
 }
 
+.row-product{
+    background-color: #fff;
+    margin: 0;
+    padding: 5px;
+    padding-top: 16px;
+}
+
 .garis-bawah{
     border-bottom: 2px solid #2d2d2d;
     margin-top: 10px;
