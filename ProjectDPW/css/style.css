@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  background-color: #e2edff;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  color: #2d2d2d;
+}
+.form-control {
+  width: 350px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='%2300cba9' fill-opacity='1' d='M0,128L26.7,133.3C53.3,139,107,149,160,154.7C213.3,160,267,160,320,149.3C373.3,139,427,117,480,144C533.3,171,587,245,640,234.7C693.3,224,747,128,800,101.3C853.3,75,907,117,960,117.3C1013.3,117,1067,75,1120,58.7C1173.3,43,1227,53,1280,80C1333.3,107,1387,149,1413,170.7L1440,192L1440,0L1413.3,0C1386.7,0,1333,0,1280,0C1226.7,0,1173,0,1120,0C1066.7,0,1013,0,960,0C906.7,0,853,0,800,0C746.7,0,693,0,640,0C586.7,0,533,0,480,0C426.7,0,373,0,320,0C266.7,0,213,0,160,0C106.7,0,53,0,27,0L0,0Z'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.berita {
+  background-color: #00cba9;
+}
+
+.footer-green {
+  padding: 5rem 1rem;
+  background-color: #00cba9;
+}
+
+.breadcrumb-2 {
+  background-color: #fff;
+}
+
+.bg-success2 {
+  background-color: #00cba9;
+}
+
+.img-kategori {
+  width: 50px;
+}
+.img-kategori:hover {
+  transform: scale(1.2);
+}
+
+.row-product {
+  background-color: #fff;
+  margin: 0;
+  padding: 5px;
+  padding-top: 16px;
+}
+
+.card:hover {
+  border: 2px solid #00cba9;
+}
+
+.img-keranjang {
+  width: 50px;
+}
+
+.login-container {
+  position: absolute;
+  padding: 3rem;
+  margin: auto;
+  padding: auto;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px 0px #000;
+}
+/* a:decoration */
+a {
+  text-decoration: none;
+  color: #e2edff;
+}
+
+a:hover {
+  color: #e2edff;
+}
+/* btn-custom */
+.btn-success2 {
+  color: #fff;
+  background-color: #1dad6a;
+  border-color: #1bc777;
+}
+.btn-success2:hover {
+  color: #fff;
+  background-color: #375854;
+  border-color: #375854;
+}
+.btn-check:focus + .btn-success2,
+.btn-success2:focus {
+  color: #fff;
+  background-color: #198754;
+  border-color: #375854;
+  box-shadow: 0 0 0 0.25rem rgba(60, 153, 110, 0.5);
+}
+.btn-check:checked + .btn-success2,
+.btn-check:active + .btn-success2,
+.btn-success2:active,
+.btn-success2.active,
+.show > .btn-success2.dropdown-toggle {
+  color: #fff;
+  background-color: #375854;
+  border-color: #13653f;
+}
+.btn-check:checked + .btn-success2:focus,
+.btn-check:active + .btn-success2:focus,
+.btn-success2:active:focus,
+.btn-success2.active:focus,
+.show > .btn-success2.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem rgba(60, 153, 110, 0.5);
+}
+.btn-success2:disabled,
+.btn-success2.disabled {
+  color: #fff;
+  background-color: #198754;
+  border-color: #375854;
+}
